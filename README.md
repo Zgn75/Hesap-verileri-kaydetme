@@ -22,7 +22,7 @@ Dosyayı masaüstüne atın.
 
 Cmd'yi yönetici olarak çalıştırın.
  
-Cmd'ye "cd Desktop" yazın, ardından "cd Bot" yazın tekrar "cd Anabilgiler"
+Cmd'ye "cd Desktop" yazın, ardından "cd Veri kaydedici" yazın tekrar "cd Anabilgiler"
 Son olarak "python main.py" yazarak yazılımı çalıştırabilirsiniz.
 
 Eksiklikleri ve hataları
